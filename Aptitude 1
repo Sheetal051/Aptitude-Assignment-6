@@ -1,0 +1,30 @@
+Q:  A does 4/5 th of work in 3/5 of time as compared to B. Together they finish the work in 12 days. In how many days A alone will complete the work?
+Ans:
+Let's break this down step by step:
+
+A does 4/5 th of work in 3/5 of time as compared to B.
+This means that if B takes x days to complete the work, A takes (3/5)x days to complete 4/5 of the work.
+
+Together they finish the work in 12 days.
+Let's assume A's rate of work is a and B's rate of work is b. Since they finish the work together in 12 days, their combined rate of work is 1/12.
+
+We can set up the equation:
+
+a + b = 1/12
+Since A does 4/5 th of work in 3/5 of time as compared to B, we can set up another equation:
+a = (4/5)b × (5/3)
+
+Simplifying, we get:
+a = (4/3)b
+Substituting this into the first equation, we get:
+(4/3)b + b = 1/12
+
+Combine like terms:
+(7/3)b = 1/12
+b = 3/84 = 1/28
+Now that we have B's rate of work, we can find A's rate of work:
+a = (4/3)b = (4/3) × (1/28) = 4/84 = 1/21
+
+Since A's rate of work is 1/21, A alone will complete the work in: 21 days
+
+So, A alone will complete the work in 21 days.
