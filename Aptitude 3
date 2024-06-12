@@ -1,0 +1,24 @@
+Q: The sales of a cinema ticket increase by 57 1/7 %, and the price of tickets also increases by 16 2/3%. Find the percentage increase in the revenue collection?
+Ans:
+Let's break this down step by step:
+
+Sales of cinema tickets increase by 57 1/7 %:
+This means that if the original number of tickets sold was x, the new number of tickets sold is:
+x + (57 1/7 % of x) = x + (57 1/7 / 100) × x = x + (401/700) × x = x + (401/700)x = (700/700)x + (401/700)x = (1101/700)x
+
+So, the new number of tickets sold is (1101/700)x.
+
+Price of tickets also increases by 16 2/3 %:
+This means that if the original price of a ticket was y, the new price of a ticket is:
+y + (16 2/3 % of y) = y + (16 2/3 / 100) × y = y + (50/300) × y = y + (50/300)y = (300/300)y + (50/300)y = (350/300)y
+
+So, the new price of a ticket is (350/300)y.
+
+Revenue collection is the product of the number of tickets sold and the price of each ticket:
+Original revenue = x × y New revenue = (1101/700)x × (350/300)y = (1101/700) × (350/300) × xy = (1101 × 350)/(700 × 300) × xy = (384350/210000) × xy = (1153/630) × xy
+
+The percentage increase in revenue collection is:
+((New revenue - Original revenue) / Original revenue) × 100 = (((1153/630) × xy - xy) / xy) × 100 = ((1153/630 - 1) / 1) × 100 = (523/630) × 100 = 83.02%
+
+So, the revenue collection increases by approximately 83.02%.
+
