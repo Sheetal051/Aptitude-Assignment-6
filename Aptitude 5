@@ -1,0 +1,26 @@
+Q: A dealer sold a bicycle at a profit of 10%. Had he bought the bicycle at 10% less price and sold it at a price Rs. 60 more, he would have gained 25%. The cost price of the bicycle was?
+Ans:
+Let's say the cost price of the bicycle is x.
+
+Since the dealer sold the bicycle at a profit of 10%, the selling price is:
+Selling price = x + (10% of x) = x + 0.1x = 1.1x
+
+Now, if the dealer had bought the bicycle at 10% less price, the new cost price would be:
+New cost price = x - (10% of x) = x - 0.1x = 0.9x
+
+If the dealer sold the bicycle at a price Rs. 60 more, the new selling price would be:
+New selling price = 1.1x + 60
+
+Since the dealer would have gained 25% in this scenario, the new selling price is:
+New selling price = New cost price + (25% of New cost price) = 0.9x + (0.25 × 0.9x) = 0.9x + 0.225x = 1.125x
+
+Equating the two expressions for the new selling price, we get:
+1.1x + 60 = 1.125x
+
+Subtracting 1.1x from both sides gives:
+60 = 0.025x
+
+Dividing both sides by 0.025 gives:
+x = 2400
+
+So, the cost price of the bicycle is Rs. 2400.
