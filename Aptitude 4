@@ -1,0 +1,20 @@
+Q:  In a garrison, there was sufficient food for 1600 soldiers for 60 days. Each soldier consumes 900 grams of food every day. After 40 days, 400 soldiers left the camp. How long the food will last for the remaining soldiers if they consume 1000 grams of food every day.
+Ans:
+Let's break this down step by step:
+
+Initially, there was sufficient food for 1600 soldiers for 60 days. This means the total amount of food available is:
+1600 soldiers × 900 grams/soldier/day × 60 days = 86,400,000 grams
+
+After 40 days, 400 soldiers left the camp, which means the remaining soldiers are:
+1600 - 400 = 1200 soldiers
+
+The amount of food consumed by the soldiers in 40 days is:
+1600 soldiers × 900 grams/soldier/day × 40 days = 57,600,000 grams
+
+So, the remaining food is:
+86,400,000 grams - 57,600,000 grams = 28,800,000 grams
+
+The remaining soldiers consume 1000 grams of food every day. To find out how long the remaining food will last, we can divide the remaining food by the daily consumption:
+28,800,000 grams ÷ (1200 soldiers × 1000 grams/soldier/day) = 24 days
+
+Therefore, the food will last for 24 days for the remaining 1200 soldiers.
